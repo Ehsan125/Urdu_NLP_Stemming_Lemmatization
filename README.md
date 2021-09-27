@@ -1,12 +1,12 @@
 # Urdu_NLP_Stemming_Lemmatization
 
 # Word and Its Lemmas
-![](Lemma.png)
+![](Lemma.PNG)
 # Words and its Lemmas Sentence Wise
-![](Lemma2.png)
+![](Lemma2.PNG)
 # Sentences Parts of Speech and Name Entity Recognitions
-![](Lemma3.png)
+![](Lemma3.PNG)
 # Sentences Parts of Speech and Name Entity Recognitions
-![](Lemma4.png)
+![](Lemma4.PNG)
 # Word Counts Recursively
-![](Lemma5.png)
+![](Lemma5.PNG)
